@@ -62,3 +62,5 @@
   <button onclick="window.print()" style="position:fixed;bottom:30px;right:30px;padding:12px 20px;font-size:16px;border:none;border-radius:8px;background:#4a6cf7;color:white;cursor:pointer;box-shadow:0 4px 10px rgba(0,0,0,0.2);">輸出 PDF</button>
 </body>
 </html>
+📁 docs
+　└── index.html
