@@ -23,10 +23,10 @@
 
   <h2>基本資料</h2>
   <div class="section">
-    <p><strong>姓名：</strong>（請填入）</p>
-    <p><strong>學號：</strong>（請填入）</p>
-    <p><strong>Email：</strong>（請填入）</p>
-    <p><strong>電話：</strong>（請填入）</p>
+    <p><strong>姓名：</strong>（陳XX）</p>
+    <p><strong>學號：</strong>（114031090）</p>
+    <p><strong>Email：</strong>（fun951107@gmail.com）</p>
+    <p><strong>電話：</strong>（09XXXXXXXX）</p>
   </div>
 
   <h2>學歷</h2>
