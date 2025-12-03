@@ -3,16 +3,8 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>履歷表</title>
-<style>
- body { font-family: Arial, sans-serif; background:#f7f7f7; padding:40px; }
- .resume { max-width:800px; margin:0 auto; background:white; padding:40px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1); }
- .photo { text-align:center; margin-bottom:30px; }
- .photo img { width:200px; border-radius:12px; }
- h1 { text-align:center; margin-bottom:10px; }
- h2 { border-left:4px solid #555; padding-left:8px; margin-top:30px; }
- .section { margin-bottom:20px; }
-</style>
+
+ 
 </head>
 <body>
 <div class="resume">
@@ -31,7 +23,7 @@
 
   <h2>學歷</h2>
   <div class="section">
-    <p>亞洲大學 經濟與管理學系 — 主修經濟、管理、資料分析、商業決策（請填入你的主修）</p>
+    <p>亞洲大學 經濟與管理學系 — 主修經濟、管理、資料分析、商業決策</p>
     <p>相關課程：統計學、經濟學、管理學、行銷學、資料分析、會計學</p>
   </div>
 
@@ -48,19 +40,18 @@
 
   <h2>工作 / 實習經驗</h2>
   <div class="section">
+   <p><strong>活動志工｜校內活動 / 社團活動</strong></p>
+    <ul>
+      <li>協助活動前置、場佈與現場秩序管理</li>
+      <li>負責與不同組員協作，確保活動順利進行</li>
+    </ul>
+  </div>
     <p><strong>校內行政工讀生｜亞洲大學</strong></p>
     <ul>
       <li>協助文件整理、資料輸入與行政作業</li>
       <li>接待學生、提供基本行政協助</li>
       <li>具備細心與耐心，確保資料正確性</li>
     </ul>
-
-    <p><strong>活動志工｜校內活動 / 社團活動</strong></p>
-    <ul>
-      <li>協助活動前置、場佈與現場秩序管理</li>
-      <li>負責與不同組員協作，確保活動順利進行</li>
-    </ul>
-  </div>
 
   <h2>自傳</h2>
   <div class="section">
