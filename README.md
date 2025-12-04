@@ -11,7 +11,7 @@
   <div class="photo">
    <img src="陳77.jpg" width="200">
   </div>
-  <h1>亞洲大學 經濟與管理學系 — 履歷表</h1>
+  <h1>亞洲大學 經營與管理學系 — 履歷表</h1>
 
   <h2>基本資料</h2>
   <div class="section">
